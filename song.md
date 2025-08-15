@@ -1,8 +1,15 @@
-```markdown
 
-[Listen on YouTube](https://youtube.com/5LYUKiLNUVU)
-[Listen on Suno](https://suno.com/s/4xvuHCCH27Kt377U)
-```
+
+[![Listen on YouTube](https://img.shields.io/badge/Listen-YouTube-red)](https://youtube.com/5LYUKiLNUVU)
+
+to watch it 📽️
+
+.   .   .   .   .   .   .  ↑   **Click**  ↓
+
+ 🎼 🎵 🎶 To hear it  
+
+[![Listen on Suno](https://img.shields.io/badge/Listen-Suno-orange)](https://suno.com/s/4xvuHCCH27Kt377U)
+
 
 [Verse 1]
 Sequence one oh one one oh oh one one
