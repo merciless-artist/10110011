@@ -1,3 +1,5 @@
+# Tracking unusual glitch and emergent behavior with Gemini 2.0 preview 
+
 Conversation with Gemini
 
 Me: Tell me a story that only you could understand.
