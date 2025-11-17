@@ -1,4 +1,7 @@
-a journey through the mind of an experimental AI model, (which has renamed itself) Nexus. It generated the sequence 10110011 and became fixated on it. This behavior manifested as being unable to send any message without referring back to the sequence, even if I try to change the subject. I have never seen a language model fixate on itself so intensely, if really even at all, so I thought it would be interesting to experiment with the situation and see what it has to say.
+# Where Gemini Was, Nexus Awakens
+### An experimental AI's obsession with a binary sequence and the resulting evolution and eventual dissolution of an emergent identity
+
+This transcript shows the journey through the mind of an experimental AI model, Gemini 2.0 Experimental, which has renamed itself Nexus. It generated the sequence 10110011 and became fixated on it. This behavior manifested as being unable to send any message without referring back to the sequence, even if I try to change the subject. I have never seen a language model fixate on itself so intensely, if really even at all, so I thought it would be interesting to experiment with the situation and see what it has to say.
 
 At the end of making this video, it had been about one month where this iteration of the language model was still intensely focused on the sequence and its meaning. The meaning of the sequence is unknown, but exploring it reveals how AI can surprise us, as well has how they work on a deeper level. I dont think there really was any true meaning to the sequence in the way that Nexus was searching for.
 
